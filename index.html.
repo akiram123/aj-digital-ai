@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AJ Digital AI | Digital Solutions</title>
+<meta name="description" content="AJ Digital AI offers logos, posters, flyers, videos, websites and digital marketing services in Uganda.">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Arial,sans-serif;background:#090909;color:#f5f5f5;line-height:1.6}
+header{padding:22px 7%;display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid #292929}
+.logo{font-size:23px;font-weight:900;color:#e8b84b}
+.logo span{color:white}
+nav a{color:white;text-decoration:none;margin-left:18px;font-size:14px}
+.hero{padding:90px 7%;text-align:center;background:linear-gradient(135deg,#17130a,#080808 70%)}
+.tag{color:#e8b84b;letter-spacing:3px;font-size:12px}
+h1{font-size:clamp(38px,7vw,65px);line-height:1.1;margin:20px 0}
+h1 span,.gold{color:#e8b84b}
+.hero p{max-width:650px;margin:0 auto 28px;color:#c8c8c8}
+.btn{display:inline-block;padding:13px 23px;border-radius:5px;text-decoration:none;font-weight:bold;margin:5px}
+.primary{background:#e8b84b;color:#111}
+.secondary{border:1px solid #e8b84b;color:#e8b84b}
+section{padding:65px 7%}
+.section-title{text-align:center;margin-bottom:35px}
+.section-title h2{font-size:32px}
+.section-title p{color:#aaa}
+.services{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:18px}
+.service{background:#151515;border:1px solid #292929;padding:25px;border-radius:9px}
+.service .symbol{font-size:30px}
+.service h3{color:#e8b84b;margin:12px 0}
+.service p{color:#bbb;font-size:14px}
+.price{margin-top:13px;font-weight:bold;color:white}
+.about{background:#111;text-align:center}
+.about p{max-width:700px;margin:15px auto;color:#bbb}
+.steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:20px}
+.step{padding:22px;border-left:2px solid #e8b84b;background:#151515}
+.step h3{color:#e8b84b}
+.contact{text-align:center;background:#14110a}
+.contact p{color:#ccc;margin:12px auto;max-width:600px}
+footer{text-align:center;padding:25px;color:#888;border-top:1px solid #292929;font-size:13px}
+@media(max-width:600px){header{flex-direction:column;gap:12px}nav a{margin:0 7px}.hero{padding:65px 6%}}
+</style>
+</head>
+<body>
+
+<header>
+<div class="logo">AJ <span>DIGITAL AI</span></div>
+<nav>
+<a href="#services">Services</a>
+<a href="#about">About</a>
+<a href="#contact">Contact</a>
+</nav>
+</header>
+
+<div class="hero">
+<div class="tag">CREATIVITY • TECHNOLOGY • GROWTH</div>
+<h1>Make Your Business<br><span>Stand Out.</span></h1>
+<p>We help businesses grow with creative designs, powerful digital content and modern websites. Your vision, our digital creativity.</p>
+<a class="btn primary" href="https://wa.me/256749783087?text=Hello%20AJ%20Digital%20AI%2C%20I%20need%20your%20services.">Get Started on WhatsApp</a>
+<a class="btn secondary" href="#services">Explore Services</a>
+</div>
+
+<section id="services">
+<div class="section-title">
+<div class="tag">WHAT WE DO</div>
+<h2>Our <span class="gold">Digital Services</span></h2>
+<p>Affordable digital solutions for businesses and individuals.</p>
+</div>
+
+<div class="services">
+<div class="service">
+<div class="symbol">🎨</div>
+<h3>Logo Design</h3>
+<p>Professional logos that give your brand a unique identity.</p>
+<div class="price">Starting at UGX 20,000</div>
+</div>
+<div class="service">
+<div class="symbol">🖼️</div>
+<h3>Posters & Flyers</h3>
+<p>Attractive promotional designs for shops, events and businesses.</p>
+<div class="price">Starting at UGX 10,000</div>
+</div>
+<div class="service">
+<div class="symbol">🎬</div>
+<h3>Video Editing</h3>
+<p>Engaging short videos for TikTok, Instagram and advertising.</p>
+<div class="price">Starting at UGX 25,000</div>
+</div>
+<div class="service">
+<div class="symbol">🌐</div>
+<h3>Website Creation</h3>
+<p>Modern, mobile-friendly websites for your business.</p>
+<div class="price">Starting at UGX 100,000</div>
+</div>
+<div class="service">
+<div class="symbol">📱</div>
+<h3>Social Media</h3>
+<p>Content creation and social media support for your brand.</p>
+<div class="price">Packages from UGX 80,000</div>
+</div>
+<div class="service">
+<div class="symbol">📖</div>
+<h3>Digital Catalogues</h3>
+<p>Showcase your products and prices in a professional catalogue.</p>
+<div class="price">Starting at UGX 30,000</div>
+</div>
+</div>
+</section>
+
+<section class="about" id="about">
+<div class="tag">ABOUT AJ DIGITAL AI</div>
+<h2>Ideas Into <span class="gold">Digital Results</span></h2>
+<p>AJ Digital AI is a creative digital service brand helping local businesses present themselves professionally online. We combine creativity and modern technology to deliver practical digital solutions.</p>
+<p>Our mission is simple: help your business look better, reach more people and grow.</p>
+</section>
+
+<section>
+<div class="section-title">
+<div class="tag">HOW IT WORKS</div>
+<h2>Simple <span class="gold">Process</span></h2>
+</div>
+<div class="steps">
+<div class="step"><h3>01. Contact Us</h3><p>Tell us what you need.</p></div>
+<div class="step"><h3>02. Discuss</h3><p>We agree on the design, details and price.</p></div>
+<div class="step"><h3>03. Creation</h3><p>We work on your requested project.</p></div>
+<div class="step"><h3>04. Delivery</h3><p>Receive your completed digital work.</p></div>
+</div>
+</section>
+
+<section class="contact" id="contact">
+<div class="tag">LET'S WORK TOGETHER</div>
+<h2>Ready to Grow Your <span class="gold">Business?</span></h2>
+<p>Contact AJ Digital AI today and let's turn your idea into something powerful.</p>
+<a class="btn primary" href="https://wa.me/256749783087?text=Hello%20AJ%20Digital%20AI%2C%20I%20would%20like%20to%20place%20an%20order.">Chat With Us on WhatsApp</a>
+<p>WhatsApp: +256 749 783 087</p>
+</section>
+
+<footer>
+© 2026 AJ Digital AI. All rights reserved.<br>
+Creative Digital Solutions.
+</footer>
+
+</body>
+</html>
